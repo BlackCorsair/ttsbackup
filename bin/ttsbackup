@@ -11,7 +11,7 @@ var mod_validator = require('./../lib/commands/mod_validator');
 var WorkshopHelper = require('./../lib/util/workshop_helper');
 var _ = require('lodash');
 
-program.version('0.0.0');
+program.version('1.0.0');
 
 program
     .command('backup')
